@@ -1,0 +1,9 @@
+#include <iostream>
+
+int main()
+{
+  float grade1;
+  float grade2;
+  float grade3;
+
+}
